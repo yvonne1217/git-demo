@@ -1,0 +1,17 @@
+press i to insert content in vim
+press i to insert content in vim
+press i to insert content in vim
+press i to insert content in vim
+press i to insert content in vim
+press i to insert content in vim
+press i to insert content in vim
+press esc then press yy to copy this line
+then press p to paste the line
+then press p to paste the line
+then press p to paste the line
+then press p to paste the line
+then press p to paste the line
+then press p to paste the line
+press i to insert content in vim
+press i to insert content in vim
+
