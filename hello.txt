@@ -12,6 +12,6 @@ then press p to paste the line
 then press p to paste the line
 then press p to paste the line
 then press p to paste the line
-press i to insert content in vim
+press i to insert content in vim master
 press i to insert content in vim
 add version
