@@ -16,3 +16,4 @@ press i to insert content in vim master hot-fix
 press i to insert content in vim
 add version
 add sth at github
+no2 creator after clone
